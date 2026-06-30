@@ -1,0 +1,114 @@
+[
+  {
+    "full_name": "Jane Doe",
+    "_confidence": {
+      "full_name": 0.88,
+      "primary_email": 0.88,
+      "phone": 0.88,
+      "skills": 0.85
+    },
+    "primary_email": "jane.doe@gmail.com",
+    "phone": "+14155550199",
+    "skills": [
+      "Python",
+      "Kubernetes",
+      "AWS",
+      "SQL"
+    ]
+  },
+  {
+    "full_name": "Arjun Mehta",
+    "_confidence": {
+      "full_name": 0.879,
+      "primary_email": 0.879,
+      "phone": 0.879,
+      "skills": 0.84
+    },
+    "primary_email": "arjun.mehta@example.com",
+    "phone": "+19876543210",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "AWS"
+    ]
+  },
+  {
+    "full_name": null,
+    "_confidence": {
+      "full_name": 0.85,
+      "primary_email": 0.85,
+      "phone": 0.85
+    },
+    "primary_email": "broken@nowhere.com",
+    "phone": null,
+    "skills": null
+  },
+  {
+    "full_name": "Priya Shah",
+    "_confidence": {
+      "full_name": 0.698,
+      "primary_email": 0.698,
+      "phone": 0.698,
+      "skills": 0.55
+    },
+    "primary_email": "priya.shah@example.com",
+    "phone": "+919876511111",
+    "skills": [
+      "SQL",
+      "Python",
+      "Product Analytics",
+      "A/b Testing",
+      "JIRA"
+    ]
+  },
+  {
+    "full_name": "Wei Lin",
+    "_confidence": {
+      "full_name": 0.85,
+      "primary_email": 0.85,
+      "phone": 0.85,
+      "skills": 0.85
+    },
+    "primary_email": "wei.lin@example.com",
+    "phone": "+13800001111",
+    "skills": [
+      "JavaScript",
+      "React",
+      "TypeScript"
+    ]
+  },
+  {
+    "full_name": "Sam Okafor",
+    "_confidence": {
+      "full_name": 0.539,
+      "primary_email": 0.539,
+      "phone": 0.539,
+      "skills": 0.55
+    },
+    "primary_email": "sam.okafor@example.com",
+    "phone": "+2348035559182",
+    "skills": [
+      "Go",
+      "Docker",
+      "Kubernetes",
+      "GraphQL",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "full_name": "Maria Lopez",
+    "_confidence": {
+      "full_name": 0.45,
+      "primary_email": 0.45,
+      "phone": 0.45,
+      "skills": 0.45
+    },
+    "primary_email": "maria.lopez@example.com",
+    "phone": null,
+    "skills": [
+      "React",
+      "Node.js"
+    ]
+  }
+]

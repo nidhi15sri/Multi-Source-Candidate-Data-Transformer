@@ -1,0 +1,799 @@
+[
+  {
+    "candidate_id": "cand_1202df667445",
+    "full_name": "Arjun Mehta",
+    "emails": [
+      "arjun.mehta@example.com"
+    ],
+    "phones": [
+      "+19876543210",
+      "+919876543210"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Lead Data Scientist",
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "Python",
+        "confidence": 0.97,
+        "sources": [
+          "ats_json:ats_export.json",
+          "notes:recruiter_notes_arjun.txt"
+        ]
+      },
+      {
+        "name": "Machine Learning",
+        "confidence": 0.97,
+        "sources": [
+          "ats_json:ats_export.json",
+          "notes:recruiter_notes_arjun.txt"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.97,
+        "sources": [
+          "ats_json:ats_export.json",
+          "notes:recruiter_notes_arjun.txt"
+        ]
+      },
+      {
+        "name": "AWS",
+        "confidence": 0.45,
+        "sources": [
+          "notes:recruiter_notes_arjun.txt"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DataWorks",
+        "title": "Data Scientist",
+        "start": null,
+        "end": null,
+        "summary": null
+      },
+      {
+        "company": "DataWorks",
+        "title": "Lead Data Scientist",
+        "start": "2020-06",
+        "end": null,
+        "summary": "Owns the recommendation models."
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "emails",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv:recruiter_export.csv",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "notes:recruiter_notes_arjun.txt",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv:recruiter_export.csv",
+        "method": "merge"
+      },
+      {
+        "field": "full_name",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "full_name",
+        "source": "notes:recruiter_notes_arjun.txt",
+        "method": "merge"
+      },
+      {
+        "field": "full_name",
+        "source": "recruiter_csv:recruiter_export.csv",
+        "method": "merge"
+      },
+      {
+        "field": "headline",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "notes:recruiter_notes_arjun.txt",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "notes:recruiter_notes_arjun.txt",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "notes:recruiter_notes_arjun.txt",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "notes:recruiter_notes_arjun.txt",
+        "method": "merge"
+      },
+      {
+        "field": "experience",
+        "source": "recruiter_csv:recruiter_export.csv",
+        "method": "merge"
+      },
+      {
+        "field": "experience",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      }
+    ],
+    "overall_confidence": 0.879
+  },
+  {
+    "candidate_id": "cand_191655314d29",
+    "full_name": "Jane Doe",
+    "emails": [
+      "jane.doe@gmail.com"
+    ],
+    "phones": [
+      "+14155550199"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Sr. Backend Engineer",
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "Python",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json:ats_export.json"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json:ats_export.json"
+        ]
+      },
+      {
+        "name": "AWS",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json:ats_export.json"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json:ats_export.json"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Acme Corp",
+        "title": "Senior Backend Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      },
+      {
+        "company": "Acme Corp",
+        "title": "Sr. Backend Engineer",
+        "start": "2021-03",
+        "end": null,
+        "summary": "Leads the payments platform team."
+      },
+      {
+        "company": "Globex",
+        "title": "Backend Engineer",
+        "start": "2018-01",
+        "end": "2021-02",
+        "summary": "Built the order service."
+      }
+    ],
+    "education": [
+      {
+        "institution": "UC Berkeley",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2017"
+      }
+    ],
+    "provenance": [
+      {
+        "field": "emails",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv:recruiter_export.csv",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv:recruiter_export.csv",
+        "method": "merge"
+      },
+      {
+        "field": "full_name",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "full_name",
+        "source": "recruiter_csv:recruiter_export.csv",
+        "method": "merge"
+      },
+      {
+        "field": "headline",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "experience",
+        "source": "recruiter_csv:recruiter_export.csv",
+        "method": "merge"
+      },
+      {
+        "field": "experience",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "experience",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "education",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      }
+    ],
+    "overall_confidence": 0.88
+  },
+  {
+    "candidate_id": "cand_29c87ed4937d",
+    "full_name": "Maria Lopez",
+    "emails": [
+      "maria.lopez@example.com"
+    ],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "React",
+        "confidence": 0.45,
+        "sources": [
+          "notes:recruiter_notes_maria.txt"
+        ]
+      },
+      {
+        "name": "Node.js",
+        "confidence": 0.45,
+        "sources": [
+          "notes:recruiter_notes_maria.txt"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "provenance": [
+      {
+        "field": "emails",
+        "source": "notes:recruiter_notes_maria.txt",
+        "method": "merge"
+      },
+      {
+        "field": "full_name",
+        "source": "notes:recruiter_notes_maria.txt",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "notes:recruiter_notes_maria.txt",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "notes:recruiter_notes_maria.txt",
+        "method": "merge"
+      }
+    ],
+    "overall_confidence": 0.45
+  },
+  {
+    "candidate_id": "cand_406b61acca56",
+    "full_name": "Wei Lin",
+    "emails": [
+      "wei.lin@example.com"
+    ],
+    "phones": [
+      "+13800001111"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Frontend Engineer",
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "JavaScript",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json:ats_export.json"
+        ]
+      },
+      {
+        "name": "React",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json:ats_export.json"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json:ats_export.json"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Northwind",
+        "title": "Frontend Engineer",
+        "start": "2019-09",
+        "end": null,
+        "summary": "Owns the design system."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Tsinghua University",
+        "degree": "B.Eng",
+        "field": "Software Engineering",
+        "end_year": "2019"
+      }
+    ],
+    "provenance": [
+      {
+        "field": "emails",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "full_name",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "headline",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "experience",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      },
+      {
+        "field": "education",
+        "source": "ats_json:ats_export.json",
+        "method": "merge"
+      }
+    ],
+    "overall_confidence": 0.85
+  },
+  {
+    "candidate_id": "cand_473541eef444",
+    "full_name": null,
+    "emails": [
+      "broken@nowhere.com"
+    ],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [],
+    "education": [],
+    "provenance": [
+      {
+        "field": "emails",
+        "source": "recruiter_csv:recruiter_export.csv",
+        "method": "merge"
+      }
+    ],
+    "overall_confidence": 0.85
+  },
+  {
+    "candidate_id": "cand_8e9ea0b01e07",
+    "full_name": "Sam Okafor",
+    "emails": [
+      "sam.okafor@example.com"
+    ],
+    "phones": [
+      "+2348035559182"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": "https://github.com/samokafor",
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Full-stack engineer focused on developer tooling and platform reliability.",
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "Go",
+        "confidence": 0.55,
+        "sources": [
+          "resume:sam_okafor_resume.docx"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.55,
+        "sources": [
+          "resume:sam_okafor_resume.docx"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "confidence": 0.55,
+        "sources": [
+          "resume:sam_okafor_resume.docx"
+        ]
+      },
+      {
+        "name": "GraphQL",
+        "confidence": 0.55,
+        "sources": [
+          "resume:sam_okafor_resume.docx"
+        ]
+      },
+      {
+        "name": "PostgreSQL",
+        "confidence": 0.55,
+        "sources": [
+          "resume:sam_okafor_resume.docx"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "provenance": [
+      {
+        "field": "emails",
+        "source": "resume:sam_okafor_resume.docx",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "resume:sam_okafor_resume.docx",
+        "method": "merge"
+      },
+      {
+        "field": "full_name",
+        "source": "resume:sam_okafor_resume.docx",
+        "method": "merge"
+      },
+      {
+        "field": "links.github",
+        "source": "resume:sam_okafor_resume.docx",
+        "method": "merge"
+      },
+      {
+        "field": "headline",
+        "source": "resume:sam_okafor_resume.docx",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume:sam_okafor_resume.docx",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume:sam_okafor_resume.docx",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume:sam_okafor_resume.docx",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume:sam_okafor_resume.docx",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume:sam_okafor_resume.docx",
+        "method": "merge"
+      }
+    ],
+    "overall_confidence": 0.539
+  },
+  {
+    "candidate_id": "cand_a2cd26f2635f",
+    "full_name": "Priya Shah",
+    "emails": [
+      "priya.shah@example.com"
+    ],
+    "phones": [
+      "+919876511111"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/priyashah",
+      "github": "https://github.com/priyashah",
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Product Manager",
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "SQL",
+        "confidence": 0.55,
+        "sources": [
+          "resume:priya_shah_resume.pdf"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.55,
+        "sources": [
+          "resume:priya_shah_resume.pdf"
+        ]
+      },
+      {
+        "name": "Product Analytics",
+        "confidence": 0.55,
+        "sources": [
+          "resume:priya_shah_resume.pdf"
+        ]
+      },
+      {
+        "name": "A/b Testing",
+        "confidence": 0.55,
+        "sources": [
+          "resume:priya_shah_resume.pdf"
+        ]
+      },
+      {
+        "name": "JIRA",
+        "confidence": 0.55,
+        "sources": [
+          "resume:priya_shah_resume.pdf"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Finlytics",
+        "title": "Product Manager",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "emails",
+        "source": "recruiter_csv:recruiter_export.csv",
+        "method": "merge"
+      },
+      {
+        "field": "emails",
+        "source": "resume:priya_shah_resume.pdf",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv:recruiter_export.csv",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "resume:priya_shah_resume.pdf",
+        "method": "merge"
+      },
+      {
+        "field": "full_name",
+        "source": "recruiter_csv:recruiter_export.csv",
+        "method": "merge"
+      },
+      {
+        "field": "full_name",
+        "source": "resume:priya_shah_resume.pdf",
+        "method": "merge"
+      },
+      {
+        "field": "links.linkedin",
+        "source": "resume:priya_shah_resume.pdf",
+        "method": "merge"
+      },
+      {
+        "field": "links.github",
+        "source": "resume:priya_shah_resume.pdf",
+        "method": "merge"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv:recruiter_export.csv",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume:priya_shah_resume.pdf",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume:priya_shah_resume.pdf",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume:priya_shah_resume.pdf",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume:priya_shah_resume.pdf",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume:priya_shah_resume.pdf",
+        "method": "merge"
+      },
+      {
+        "field": "experience",
+        "source": "recruiter_csv:recruiter_export.csv",
+        "method": "merge"
+      }
+    ],
+    "overall_confidence": 0.698
+  }
+]

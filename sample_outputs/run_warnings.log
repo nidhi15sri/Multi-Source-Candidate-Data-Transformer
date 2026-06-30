@@ -1,0 +1,4 @@
+[warning] source produced no usable records (missing/empty/garbage?): sample_inputs/garbage_ats.json
+[warning] [cand_473541eef444] missing or empty required field: full_name
+Wrote default-schema output: sample_outputs/default_output.json
+Wrote custom-config output: sample_outputs/default_output.custom.json
